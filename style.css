@@ -20,3 +20,7 @@ ul {
 li {
   list-style-type: none;
 }
+
+i {
+  color: #999; /* second language */
+}
